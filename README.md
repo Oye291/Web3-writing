@@ -1,2 +1,3 @@
 # Web3 writing
-Technial writing 
+Technial writiing
+MGS web3
